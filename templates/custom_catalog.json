@@ -1,5 +1,25 @@
 [
   {
+    "id": "gio_mua_viet_nam",
+    "title": "Gi\u00F3 m\u00F9a Vi\u1EC7t Nam",
+    "subtitle": "Gi\u00F3 m\u00F9a Vi\u1EC7t Nam, gi\u00F3 m\u00F9a, gi\u00F3 m\u00F9a h\u1EA1, gi\u00F3 t\u00E2y nam, thi\u00EAn nhi\u00EAn nhi\u1EC7t \u0111\u1EDBi \u1EA9m gi\u00F3 m\u00F9a, \u0110\u1ECBa l\u00ED, Vi\u1EC7t Nam",
+    "category": "Thuy\u1EBFt tr\u00ECnh",
+    "tags": [
+      "Gi\u00F3 m\u00F9a Vi\u1EC7t Nam",
+      "gi\u00F3 m\u00F9a",
+      "gi\u00F3 m\u00F9a h\u1EA1",
+      "gi\u00F3 t\u00E2y nam",
+      "thi\u00EAn nhi\u00EAn nhi\u1EC7t \u0111\u1EDBi \u1EA9m gi\u00F3 m\u00F9a",
+      "\u0110\u1ECBa l\u00ED",
+      "Vi\u1EC7t Nam"
+    ],
+    "slideCount": 13,
+    "accentColor": "#6366F1",
+    "isCustom": false,
+    "pptxUrl": "https://raw.githubusercontent.com/danhtruong6112009-source/zenq-slide-templates/main/templates/Gi%C3%B3_m%C3%B9a_Vi%E1%BB%87t_Nam.pptx",
+    "localPptxPath": ""
+  },
+  {
     "id": "dia_li_tu_nhien_viet_nam",
     "title": "\u0110\u1ECBa l\u00ED t\u1EF1 nhi\u00EAn Vi\u1EC7t Nam",
     "subtitle": "\u0110\u1ECBa l\u00ED t\u1EF1 nhi\u00EAn Vi\u1EC7t Nam, \u0110\u1ECBa l\u00ED, Gi\u00E1o d\u1EE5c, Vi\u1EC7t Nam, \u0111\u1ECBa l\u00ED t\u1EF1 nhi\u00EAn, sinh v\u1EADt Vi\u1EC7t Nam",
