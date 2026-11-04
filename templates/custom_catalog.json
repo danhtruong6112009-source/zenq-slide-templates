@@ -1,15 +1,34 @@
 [
   {
-    "id": "hoi_nghi_ianta",
-    "title": "Hội nghị Ianta",
-    "subtitle": "Hội nghị Ianta, Lịch sử, Ianta, Trật tự thế giới 2 cực, trật tự hai cực",
-    "category": "Thuyết trình",
+    "id": "dia_li_tu_nhien_viet_nam",
+    "title": "\u0110\u1ECBa l\u00ED t\u1EF1 nhi\u00EAn Vi\u1EC7t Nam",
+    "subtitle": "\u0110\u1ECBa l\u00ED t\u1EF1 nhi\u00EAn Vi\u1EC7t Nam, \u0110\u1ECBa l\u00ED, Gi\u00E1o d\u1EE5c, Vi\u1EC7t Nam, \u0111\u1ECBa l\u00ED t\u1EF1 nhi\u00EAn, sinh v\u1EADt Vi\u1EC7t Nam",
+    "category": "Thuy\u1EBFt tr\u00ECnh",
     "tags": [
-      "Hội nghị Ianta",
-      "Lịch sử",
+      "\u0110\u1ECBa l\u00ED t\u1EF1 nhi\u00EAn Vi\u1EC7t Nam",
+      "\u0110\u1ECBa l\u00ED",
+      "Gi\u00E1o d\u1EE5c",
+      "Vi\u1EC7t Nam",
+      "\u0111\u1ECBa l\u00ED t\u1EF1 nhi\u00EAn",
+      "sinh v\u1EADt Vi\u1EC7t Nam"
+    ],
+    "slideCount": 10,
+    "accentColor": "#6366F1",
+    "isCustom": false,
+    "pptxUrl": "https://raw.githubusercontent.com/danhtruong6112009-source/zenq-slide-templates/main/templates/%C4%90%E1%BB%8Ba_l%C3%AD_t%E1%BB%B1_nhi%C3%AAn_Vi%E1%BB%87t_Nam.pptx",
+    "localPptxPath": ""
+  },
+  {
+    "id": "hoi_nghi_ianta",
+    "title": "H\u1ED9i ngh\u1ECB Ianta",
+    "subtitle": "H\u1ED9i ngh\u1ECB Ianta, L\u1ECBch s\u1EED, Ianta, Tr\u1EADt t\u1EF1 th\u1EBF gi\u1EDBi 2 c\u1EF1c, tr\u1EADt t\u1EF1 hai c\u1EF1c",
+    "category": "Thuy\u1EBFt tr\u00ECnh",
+    "tags": [
+      "H\u1ED9i ngh\u1ECB Ianta",
+      "L\u1ECBch s\u1EED",
       "Ianta",
-      "Trật tự thế giới 2 cực",
-      "trật tự hai cực"
+      "Tr\u1EADt t\u1EF1 th\u1EBF gi\u1EDBi 2 c\u1EF1c",
+      "tr\u1EADt t\u1EF1 hai c\u1EF1c"
     ],
     "slideCount": 6,
     "accentColor": "#6366F1",
@@ -19,18 +38,18 @@
   },
   {
     "id": "vi_tri_dia_li_viet_nam",
-    "title": "Vị trí địa lí Việt Nam",
-    "subtitle": "Vị trí địa lí Việt Nam, Vị trí địa lí, Việt Nam, Địa lí, Giáo dục, Bài giảng, Đông Nam Á, Biển Đông",
-    "category": "Giáo dục",
+    "title": "V\u1ECB tr\u00ED \u0111\u1ECBa l\u00ED Vi\u1EC7t Nam",
+    "subtitle": "V\u1ECB tr\u00ED \u0111\u1ECBa l\u00ED Vi\u1EC7t Nam, V\u1ECB tr\u00ED \u0111\u1ECBa l\u00ED, Vi\u1EC7t Nam, \u0110\u1ECBa l\u00ED, Gi\u00E1o d\u1EE5c, B\u00E0i gi\u1EA3ng, \u0110\u00F4ng Nam \u00C1, Bi\u1EC3n \u0110\u00F4ng",
+    "category": "Gi\u00E1o d\u1EE5c",
     "tags": [
-      "Vị trí địa lí Việt Nam",
-      "Vị trí địa lí",
-      "Việt Nam",
-      "Địa lí",
-      "Giáo dục",
-      "Bài giảng",
-      "Đông Nam Á",
-      "Biển Đông"
+      "V\u1ECB tr\u00ED \u0111\u1ECBa l\u00ED Vi\u1EC7t Nam",
+      "V\u1ECB tr\u00ED \u0111\u1ECBa l\u00ED",
+      "Vi\u1EC7t Nam",
+      "\u0110\u1ECBa l\u00ED",
+      "Gi\u00E1o d\u1EE5c",
+      "B\u00E0i gi\u1EA3ng",
+      "\u0110\u00F4ng Nam \u00C1",
+      "Bi\u1EC3n \u0110\u00F4ng"
     ],
     "slideCount": 5,
     "accentColor": "#6366F1",
@@ -40,16 +59,16 @@
   },
   {
     "id": "ngay_giai_phong_mien_nam_30_4",
-    "title": "Kỷ niệm Ngày Giải phóng miền Nam 30/4 & Quốc tế Lao động 1/5",
-    "subtitle": "Kỷ niệm 30/4, Giải phóng miền Nam, Quốc tế lao động 1/5, Lịch sử, Việt Nam, Thuyết trình",
-    "category": "Thuyết trình",
+    "title": "K\u1EF7 ni\u1EC7m Ng\u00E0y Gi\u1EA3i ph\u00F3ng mi\u1EC1n Nam 30/4 \u0026 Qu\u1ED1c t\u1EBF Lao \u0111\u1ED9ng 1/5",
+    "subtitle": "K\u1EF7 ni\u1EC7m 30/4, Gi\u1EA3i ph\u00F3ng mi\u1EC1n Nam, Qu\u1ED1c t\u1EBF lao \u0111\u1ED9ng 1/5, L\u1ECBch s\u1EED, Vi\u1EC7t Nam, Thuy\u1EBFt tr\u00ECnh",
+    "category": "Thuy\u1EBFt tr\u00ECnh",
     "tags": [
-      "Kỷ niệm 30/4",
-      "Giải phóng miền Nam",
-      "Quốc tế lao động 1/5",
-      "Lịch sử",
-      "Việt Nam",
-      "Thuyết trình"
+      "K\u1EF7 ni\u1EC7m 30/4",
+      "Gi\u1EA3i ph\u00F3ng mi\u1EC1n Nam",
+      "Qu\u1ED1c t\u1EBF lao \u0111\u1ED9ng 1/5",
+      "L\u1ECBch s\u1EED",
+      "Vi\u1EC7t Nam",
+      "Thuy\u1EBFt tr\u00ECnh"
     ],
     "slideCount": 7,
     "accentColor": "#6366F1",
