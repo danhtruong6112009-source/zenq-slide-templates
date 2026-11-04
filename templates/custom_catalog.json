@@ -1,5 +1,20 @@
 [
   {
+    "id": "dia_li_tu_nhien_viet_nam",
+    "title": "\u0110\u1ECBa l\u00ED t\u1EF1 nhi\u00EAn Vi\u1EC7t Nam",
+    "subtitle": "\u0110\u1ECBa l\u00ED t\u1EF1 nhi\u00EAn Vi\u1EC7t Nam, \u0111\u1ECBa l\u00ED",
+    "category": "Thuy\u1EBFt tr\u00ECnh",
+    "tags": [
+      "\u0110\u1ECBa l\u00ED t\u1EF1 nhi\u00EAn Vi\u1EC7t Nam",
+      "\u0111\u1ECBa l\u00ED"
+    ],
+    "slideCount": 10,
+    "accentColor": "#6366F1",
+    "isCustom": false,
+    "pptxUrl": "https://raw.githubusercontent.com/danhtruong6112009-source/zenq-slide-templates/main/templates/%C4%90%E1%BB%8Ba_l%C3%AD_t%E1%BB%B1_nhi%C3%AAn_Vi%E1%BB%87t_Nam.pptx",
+    "localPptxPath": ""
+  },
+  {
     "id": "hoi_nghi_ianta",
     "title": "H\u1ED9i ngh\u1ECB Ianta",
     "subtitle": "H\u1ED9i ngh\u1ECB Ianta, L\u1ECBch s\u1EED, Ianta, Tr\u1EADt t\u1EF1 th\u1EBF gi\u1EDBi 2 c\u1EF1c, tr\u1EADt t\u1EF1 hai c\u1EF1c",
