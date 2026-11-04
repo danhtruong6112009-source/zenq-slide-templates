@@ -1,0 +1,42 @@
+[
+  {
+    "id": "vi_tri_dia_li_viet_nam",
+    "title": "V\u1ECB tr\u00ED \u0111\u1ECBa l\u00ED Vi\u1EC7t Nam",
+    "subtitle": "V\u1ECB tr\u00ED \u0111\u1ECBa l\u00ED Vi\u1EC7t Nam, V\u1ECB tr\u00ED \u0111\u1ECBa l\u00ED, Vi\u1EC7t Nam, \u0110\u1ECBa l\u00ED, Gi\u00E1o d\u1EE5c, B\u00E0i gi\u1EA3ng, \u0110\u00F4ng Nam \u00C1, Bi\u1EC3n \u0110\u00F4ng",
+    "category": "Gi\u00E1o d\u1EE5c",
+    "tags": [
+      "V\u1ECB tr\u00ED \u0111\u1ECBa l\u00ED Vi\u1EC7t Nam",
+      "V\u1ECB tr\u00ED \u0111\u1ECBa l\u00ED",
+      "Vi\u1EC7t Nam",
+      "\u0110\u1ECBa l\u00ED",
+      "Gi\u00E1o d\u1EE5c",
+      "B\u00E0i gi\u1EA3ng",
+      "\u0110\u00F4ng Nam \u00C1",
+      "Bi\u1EC3n \u0110\u00F4ng"
+    ],
+    "slideCount": 5,
+    "accentColor": "#6366F1",
+    "isCustom": false,
+    "pptxUrl": "https://raw.githubusercontent.com/danhtruong6112009-source/zenq-slide-templates/main/templates/V%E1%BB%8B_tr%C3%AD_%C4%91%E1%BB%8Ba_l%C3%AD_Vi%E1%BB%87t_Nam.pptx",
+    "localPptxPath": ""
+  },
+  {
+    "id": "ngay_giai_phong_mien_nam_30_4",
+    "title": "K\u1EF7 ni\u1EC7m Ng\u00E0y Gi\u1EA3i ph\u00F3ng mi\u1EC1n Nam 30/4 & Qu\u1ED1c t\u1EBF Lao \u0111\u1ED9ng 1/5",
+    "subtitle": "K\u1EF7 ni\u1EC7m 30/4, Gi\u1EA3i ph\u00F3ng mi\u1EC1n Nam, Qu\u1ED1c t\u1EBF lao \u0111\u1ED9ng 1/5, L\u1ECBch s\u1EED, Vi\u1EC7t Nam, Thuy\u1EBFt tr\u00ECnh",
+    "category": "Thuy\u1EBFt tr\u00ECnh",
+    "tags": [
+      "K\u1EF7 ni\u1EC7m 30/4",
+      "Gi\u1EA3i ph\u00F3ng mi\u1EC1n Nam",
+      "Qu\u1ED1c t\u1EBF lao \u0111\u1ED9ng 1/5",
+      "L\u1ECBch s\u1EED",
+      "Vi\u1EC7t Nam",
+      "Thuy\u1EBFt tr\u00ECnh"
+    ],
+    "slideCount": 7,
+    "accentColor": "#6366F1",
+    "isCustom": false,
+    "pptxUrl": "https://raw.githubusercontent.com/danhtruong6112009-source/zenq-slide-templates/main/templates/K%E1%BB%B7_ni%E1%BB%87m_Ng%C3%A0y_Gi%E1%BA%A3i_ph%C3%B3ng_mi%E1%BB%81n_Nam_30-4_and_Qu%E1%BB%91c_t%E1%BA%BF_Lao_%C4%91%E1%BB%99ng_1-5.pptx",
+    "localPptxPath": ""
+  }
+]
