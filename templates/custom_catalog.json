@@ -1,5 +1,26 @@
 [
   {
+    "id": "Gi\u1EDBi thi\u1EC7u ph\u1EA7n m\u1EC1m",
+    "title": "New Software Project",
+    "subtitle": "New Software Project, T\u00E0i ch\u00EDnh, Marketing, Khoa h\u1ECDc, C\u00F4ng ngh\u1EC7, Kinh doanh, ph\u1EA7n m\u1EC1m, hi\u1EC7n \u0111\u1EA1i",
+    "category": "Thuy\u1EBFt tr\u00ECnh",
+    "tags": [
+      "New Software Project",
+      "T\u00E0i ch\u00EDnh",
+      "Marketing",
+      "Khoa h\u1ECDc",
+      "C\u00F4ng ngh\u1EC7",
+      "Kinh doanh",
+      "ph\u1EA7n m\u1EC1m",
+      "hi\u1EC7n \u0111\u1EA1i"
+    ],
+    "slideCount": 10,
+    "accentColor": "#6366F1",
+    "isCustom": false,
+    "pptxUrl": "https://raw.githubusercontent.com/danhtruong6112009-source/zenq-slide-templates/main/templates/New_Software_Project.pptx",
+    "localPptxPath": ""
+  },
+  {
     "id": "gio_mua_viet_nam",
     "title": "Gi\u00F3 m\u00F9a Vi\u1EC7t Nam",
     "subtitle": "Gi\u00F3 m\u00F9a Vi\u1EC7t Nam, gi\u00F3 m\u00F9a, gi\u00F3 m\u00F9a h\u1EA1, gi\u00F3 t\u00E2y nam, thi\u00EAn nhi\u00EAn nhi\u1EC7t \u0111\u1EDBi \u1EA9m gi\u00F3 m\u00F9a, \u0110\u1ECBa l\u00ED, Vi\u1EC7t Nam",
